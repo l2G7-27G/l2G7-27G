@@ -5,3 +5,5 @@
 - My UEFI won't let me put the Windows bootloader in front of GRUB, press F12...
 
 - I also play Team Fortress 2! 😁🎉😎🤩
+
+I recently bought a 120GB SSD and install Fedora KDE on it.

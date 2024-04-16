@@ -1,9 +1,3 @@
-- I can convert binary code to regular numbers and vice versa
-- It seems to me that Linux... Is it like an addiction... or love? At least for me
-- I constantly have ideas that push me to create a new project that will be the best of its kind, but I always create something that is not what I wanted due to laziness...
-- I use Windows... HOME EDITION. I tried to make Windows look like Ubuntu or Fedora, but it’s not the same...
-- ~~My UEFI won't let me put the Windows bootloader in front of GRUB, press F12...~~ I have a very simple UEFI on my computer. But it's convenient...
-
-- I also play Team Fortress 2! 😁🎉😎🤩
-
-I recently bought a 120GB SSD and install Fedora KDE on it.
+I'm a lazy ass.
+And I create my own programming language.
+I'm too lazy to write further, see previous versions of README.md to experience the cringe.
